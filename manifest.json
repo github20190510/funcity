@@ -1,0 +1,20 @@
+{
+  "name": "金來旺娛樂城",
+  "short_name": "金來旺娛樂城",
+  "icons": [
+    {
+      "src": "./img/icons/favicon/cg/favicon.ico",
+      "sizes": "129x129",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icons/favicon/cg/favicon.ico",
+      "sizes": "129x129",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#4DBA87"
+}
