@@ -101,6 +101,7 @@ window.en = {
     "profile": "个人资料",
     "login_password": "登录密码",
     "fund_password": "支付密码",
+    "terms": "同意條款",
     "about": "关于我们",
 
     "// memberAccount.vue": "我的資產頁面",
@@ -243,6 +244,7 @@ window.en = {
     "new_password_not_empty": "新密码不得为空",
 
     "// memberBankCard.vue": "銀行卡頁面",
+    "welcome_bank_card_first": "请先添加银行卡",
     "creator_bank_card": "添加提现银行卡",
     "card_id": "卡号",
     "account_name": "户名",
